@@ -13,7 +13,7 @@ import istorry.fupdate.Updater.Update;
 public class Activity extends AppCompatActivity implements Listener {
 
 
-    private String url = "http://api.expostores.com/test.php";
+    private String url = "http://example.com/example.php";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
