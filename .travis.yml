@@ -32,7 +32,7 @@ android:
     # - sys-img-x86-android-17
 
   licenses:
-   - 'android-sdk-license-.+'
+   - '.+'
 
 env:
   global:
