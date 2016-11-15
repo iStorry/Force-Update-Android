@@ -1,2 +1,2 @@
-# Force-Update-Android
+# fUpdate Android
 Force update your application
